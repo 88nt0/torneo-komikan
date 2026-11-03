@@ -1,0 +1,7 @@
+min_ms=1
+max_ms=6
+seed=7
+fallo_prob=0.01
+max_mov=800
+print_cada=0
+llegada_ms=50
