@@ -1,0 +1,6 @@
+min_ms=1
+max_ms=6
+seed=42
+max_mov=800
+print_cada=0
+llegada_ms=50
